@@ -1,6 +1,7 @@
 *{
     text-align: center;
     background-color: black;
+    color: whitesmoke;
 }
 h1{
     color:green;
@@ -11,9 +12,15 @@ h2{
     color: tomato;
     font-size: medium;
 }
-ol{
+ol,li{
     text-align: left;
     font-size: medium;
-    color: white;
+    color: orchid;
 
+}
+p{
+    text-align: left;
+}
+em{
+    color: aqua;
 }
